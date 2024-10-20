@@ -7,9 +7,11 @@ This project is part of the Web Programming course taught by Guillaume EHRET in 
 Entities:  Sensors
 Rooms 
 Windows
+
 REST API: Exposed endpoints for managing sensors and windows.
 Swagger UI: Documentation for the API is available through Swagger.
 H2 Database: In-memory database for data storage.
+
 # Technologies Used
 Java
 Spring Boot
@@ -21,7 +23,7 @@ H2 Database
 # Setup and Installation
 Clone the Repository:
 bash
-git clone https://github.com/Franlexa/Frontend spring Assignmemt.git
+git clone https://github.com/Franlexa/Frontend-spring-Assignmemt.git
 cd your-repository
 Run the Application:
 
