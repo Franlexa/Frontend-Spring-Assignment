@@ -23,7 +23,7 @@ H2 Database
 # Setup and Installation
 Clone the Repository:
 bash
-git clone https://github.com/Franlexa/Frontend-spring-Assignmemt.git
+git clone https://github.com/Franlexa/Frontend-spring-Assignment.git
 cd your-repository
 Run the Application:
 
